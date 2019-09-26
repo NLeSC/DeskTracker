@@ -4,6 +4,7 @@ A Repository to track issues related to the desks in the eScience Center
 Unusable desks: ![placeholder](https://img.shields.io/github/issues/NLeSC/DeskTracker/BROKEN?color=red&label=unusable)
 
 ## Issues with the desks
+![placeholder](https://img.shields.io/github/issues/NLeSC/DeskTracker/BSL160%2036)
 ![placeholder](https://img.shields.io/github/issues/NLeSC/DeskTracker/BZS140%2010)
 ![placeholder](https://img.shields.io/github/issues/NLeSC/DeskTracker/BZS140%2013)
 ![placeholder](https://img.shields.io/github/issues/NLeSC/DeskTracker/BZS140%2022)
